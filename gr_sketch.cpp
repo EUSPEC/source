@@ -27,7 +27,7 @@ Servo brake;
 SDMMC MMC;
 EEPROM EEPROM;
 
-char msd[128];
+char msd[64];
 
 #define INTERVAL 100
 #define PIN 35
